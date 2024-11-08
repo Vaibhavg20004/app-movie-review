@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './Home.css';
 
 const movies = [
     { id: 1, title: 'Movie 1', imgUrl: 'path_to_image1.jpg' },
